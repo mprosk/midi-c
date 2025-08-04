@@ -74,3 +74,9 @@ Run tests by first running the build, then in the build dir, run
 ```bash
 ./test_midi
 ```
+
+## Apply formatting
+
+```bash 
+./format.sh
+```
